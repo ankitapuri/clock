@@ -4,5 +4,3 @@
 It has both dark and light mode toggle 
 
 Includes Neuromorphic graphics
-
-It is built using ***HTML***, ***CSS*** and ***Vanilla Javascrit***
