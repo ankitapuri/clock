@@ -1,5 +1,5 @@
 # clock
- A basic Analog clock that works according to the Indian Time 
+ A basic Analog clock that works according to the IndianTime 
 
 It has both dark and light mode toggle 
 
